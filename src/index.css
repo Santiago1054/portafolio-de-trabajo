@@ -4,7 +4,7 @@
 @import url(https://db.onlinewebfonts.com/c/6f647d2fb27f7ad2f727d5286bc1bed1?family=Quotes+Caps+W00+Regular);
 
 body {
-  background-image: url('C:\Users\crist\OneDrive\Documents\portafolio\Nueva carpeta\portafolioTrabajo\agent\public\pattern.svg');
+  background-image: url('https://firebasestorage.googleapis.com/v0/b/myapp-80b3c.appspot.com/o/pattern.svg?alt=media&token=b58fea89-eb47-4382-80ad-7d10c3260c47');
   background-repeat: no-repeat; /* Evita que el fondo se repita */
   background-size: cover; /* Ajusta el tamaño para cubrir toda la página */
   background-position: center; /* Centra el SVG */
