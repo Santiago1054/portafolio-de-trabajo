@@ -9,7 +9,7 @@ function HomePage() {
 
 
             <div class="flex items-center gap-4">
-                <img class="w-50 h-50 p-2 rounded-full ring-2 ring-blue-500 " src="https://media.licdn.com/dms/image/v2/D4E03AQHi8JQ2H_Z5gg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1718728209848?e=1738800000&v=beta&t=dOshohmallzjdQhRl_XMmk7hclTrMSS6yEIA3ETMfFQ" alt="Bordered avatar" />
+                <img class="w-50 h-50 p-2 rounded-full ring-2 ring-blue-500 " src="https://media.licdn.com/dms/image/v2/D4E03AQE4Dh6BRtXs9g/profile-displayphoto-shrink_200_200/B4EZPPnzvzHsAg-/0/1734355140589?e=1740009600&v=beta&t=-o36ydCFFR8t7l_ycfiiApoGKki-w-NBBTHATwMQmTU" alt="Bordered avatar" />
                 <br />
                 <div >
                     <div class="font-extrabold text-black text-6xl">Santiago Ramirez Castellanos
